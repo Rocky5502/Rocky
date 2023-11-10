@@ -154,14 +154,19 @@
 - Maithili (Native or bilingual proficiency)
 - Nepali (Native or bilingual proficiency)
 
-## Special Interests
 
-- Books and research papers reading
-- Travelling
-- Programming
-- Gym/Exercises
-- Hiking
-- Learning new things
+## Extra-Curriculars
+
+- Gym
+- Swimming
+- Boxing
+- Marathon
+- Orienteering
+- Hip-hop dance
+- Badminton
+- Ideathon
+- Code Camp
+- and more!
 
 - [Data Science Blog](https://medium.com/@Rocky202X)
 - [Programming Blog](https://dev.to/rocky202x)
