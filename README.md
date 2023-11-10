@@ -52,11 +52,12 @@
 
 3. **Huawei Ideathon "Global Impact Sprint" Delegate**
    - Beijing, September, 2023
-
+   - [Link](https://mp.weixin.qq.com/s/L7-qBAcIOlmapQNPBc3gLQ)
+     
 4. **International Postgraduate Student Union - Academic, 2023**
    - Beihang University Student Ambassador of Class 2024, Oct, 2023
 
-5. **2023清华大数据智能软件论坛**
+5. **2023 Tsinghua Big Data and Artificial Intelligence Software Forum.**
    - Big Data & AI Software Symposium (BDAISS'2023) Delegate, School of Software, Tsinghua University, November32, 2023
 
 6. **Tsinghua University Innovation & Entrepreneurship Program**
@@ -65,8 +66,8 @@
 7. **Greening the Shipping Industry delegate**
    - School of Environment at Tsinghua University, Beijing, July, 2023
 
-8. **北航国际学院代表队参加第61届运动会取得佳绩**
-   - Beihang’s 61st Sports Day, 研究生男子乙组铅球(Postgraduate Men's Group B Shot Put)
+8. **Beihang University’s 61st Sports Day**
+   - 研究生男子乙组铅球(Postgraduate Men's Group B Shot Put)
    - 文浩-亚军(First runner-up) Oct 13, 2023
    - [Link](https://mp.weixin.qq.com/s/wTgbU2EkAGfQa_AveS9igw)
 
@@ -74,7 +75,7 @@
    - First
    - [Link](https://mp.weixin.qq.com/s/faG47Dqwy-I0TxE32hL0rQ)
 
-10. **校庆活动 | 海报设计比赛 Beihang Anniversary Poster Competition, 2023**
+10. **Beihang Anniversary Poster Competition, 2023**
     - First
     - [Link](https://mp.weixin.qq.com/s/3IurVTiOJ4Ex2xC4cz-smg)
 
