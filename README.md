@@ -1,5 +1,5 @@
 # Software Engineer
-# Your Full Name's Portfolio
+
 
 ## Education
 
