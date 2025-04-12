@@ -4,11 +4,15 @@
 ## Education
 
 ### Beihang University
+- **Degree:** PhD in Computer Science and Technology
+- **Duration:** 2025 - Present
+- 
+### Beihang University
 - **Degree:** Postgraduate Degree in Computer Science
 - **Duration:** Sep 2022 - Jul 2024
 
 ### Sichuan University
-- **Degree:** Bachelor's degree in Computer Software Engineering
+- **Degree:** Bachelor's degree in Software Engineering
 - **Duration:** Mar 2018 - Dec 2021
 - **Grade:** 3.5/4.0
 - **Quote:** "Be bold, be courageous, be your best."
@@ -31,7 +35,7 @@
 - **Position:** Delegate (Full-time)
 - **Duration:** Mar 2022 - Apr 2022 (2 mos)
 - **Location:** Beijing, China
-- **Achievement:** Selected as Delegate from Nepal in Yenching Global Symposium 2022 (YGS 2022), Peking University, Themes of Environment, Technology & Artificial Intelligence.
+- **Achievement:** Selected as a Delegate from Nepal in Yenching Global Symposium 2022 (YGS 2022), Peking University, Themes of Environment, Technology & Artificial Intelligence.
 
 ### Suncaper Big Data Co. Ltd.
 - **Position:** Web Development Intern
@@ -172,5 +176,5 @@
 - [Data Science Blog](https://medium.com/@Rocky202X)
 - [Programming Blog](https://dev.to/rocky202x)
 
-  ###Contact Me
+  ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/chandan-sah-rocky-%E6%96%87%E6%B5%A9-5803bb1b4)
